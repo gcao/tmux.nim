@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>gcao.tmux.nim</string>
+	<key>category</key>
+	<string>Tools</string>
+	<key>connections</key>
+	<dict/>
+	<key>createdby</key>
+	<string>Guoliang Cao</string>
+	<key>description</key>
+	<string></string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Tmux.nim</string>
+	<key>objects</key>
+	<array/>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict/>
+	<key>webaddress</key>
+	<string>https://github.com/gcao/tmux.nim</string>
+</dict>
+</plist>
